@@ -1,0 +1,28 @@
+{
+  "name": "web-cache",
+  "version": "1.0.0",
+  "description": "此demo是用Express启动的一个服务器，应用来学习测试浏览器缓存使用的。",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xufang775/web-cache.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xufang775/web-cache/issues"
+  },
+  "homepage": "https://github.com/xufang775/web-cache#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
