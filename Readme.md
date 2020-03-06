@@ -22,13 +22,13 @@ app.listen(9000,function(){
 
 1. 命令行跳转到项目目录下，执行 `nodemon app.js`；结果如下图，则表示启动成功了：
 
-   ![](E:\00Demo\web-cache\images\md01.png)
+   ![](https://github.com/xufang775/web-cache/blob/master/images/md01.png)
 
    
 
 2. 在浏览器地址栏中输入：http://locahost:9000 即可。如下：
 
-   ![](E:\00Demo\web-cache\images\md02.png)
+   ![](.\images\md02.png)
 
    
 
