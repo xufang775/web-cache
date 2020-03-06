@@ -28,7 +28,7 @@ app.listen(9000,function(){
 
 2. 在浏览器地址栏中输入：http://locahost:9000 即可。如下：
 
-   ![](.\images\md02.png)
+   ![](https://github.com/xufang775/web-cache/blob/master/images/md02.png)
 
    
 
