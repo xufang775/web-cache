@@ -105,11 +105,15 @@ app.listen(9000,function(){
 
 ![](https://github.com/xufang775/web-cache/blob/master/images/md06.png?raw=true)
 
-
-
 ![](https://github.com/xufang775/web-cache/blob/master/images/md07.png?raw=true)
 
-此次请求时，因为已经有了Etag值，所以，请求头中就
+【说明】
+
+此次请求时，因为已经有了Etag值，所以，提交请求头中就有了两个缓存首部字段，可以进行协商比较，并且命中缓存，所以返回 304。
+
+
+
+**这是主分支：master 分支，所以不打算添加其他东西，接下来，我会再添加一个 dev 分支，用于再高度其他的请求。**
 
 
 
