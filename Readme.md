@@ -57,7 +57,7 @@ app.listen(9000,function(){
 
 2、我们再看看它的请求详情，如下图：
 
-![https://github.com/xufang775/web-cache/blob/master/images/md05.png]()
+![https://github.com/xufang775/web-cache/blob/master/images/md05.png?raw=true]()
 
 
 
