@@ -10,6 +10,7 @@ app.use(exress.static('./static'))
 app.get('/',function(req,res){
   res.send('你好，我是express')
 })
+
 app.listen(9000,function(){
   console.log('start localhost:9000 success')
 })
