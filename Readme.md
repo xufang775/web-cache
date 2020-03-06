@@ -38,12 +38,14 @@ app.listen(9000,function(){
 
 ### 二、调试工具
 
-我用的是 Chorme-Dev，我们这次的关注焦点是在http请求上，所以主要在 调试工具的 Network 。
+我用的是 Chrome-Dev，我们这次的关注焦点是在http请求上，所以主要在 调试工具的 Network 。
 
 打开调试界面：
 
 1. F12，再进入 Network 界面
 2. 在页面中右键，点击“检查”菜单，再进入 Network 界面。
+
+![https://github.com/xufang775/web-cache/blob/master/images/md03.png]()
 
 
 
