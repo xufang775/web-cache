@@ -2,6 +2,10 @@
 
 此demo是用Express启动的一个服务器，应用来学习测试浏览器缓存使用的。
 
+
+
+### 一、案例说明及启动
+
 此demo此时是最简单的。其只有一个主文件 app.js
 
 ```javascript
@@ -32,9 +36,14 @@ app.listen(9000,function(){
 
    
 
+### 二、调试工具
 
+我用的是 Chorme-Dev，我们这次的关注焦点是在http请求上，所以主要在 调试工具的 Network 。
 
+打开调试界面：
 
+1. F12，再进入 Network 界面
+2. 在页面中右键，点击“检查”菜单，再进入 Network 界面。
 
 
 
