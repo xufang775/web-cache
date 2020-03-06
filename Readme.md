@@ -49,9 +49,15 @@ app.listen(9000,function(){
 
 
 
+### 三、看看Express服务默认的首页请求
 
+1、它响应的状态码是：200，而且 size 的值是请求的实际的大小。所以它的结果是服务器给返回的，并没有走缓存。如下图：
 
+![https://github.com/xufang775/web-cache/blob/master/images/md04.png]()
 
+2、我们再看看它的请求详情，如下图：
+
+![https://github.com/xufang775/web-cache/blob/master/images/md05.png]()
 
 
 
